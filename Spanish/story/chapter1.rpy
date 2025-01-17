@@ -7120,7 +7120,7 @@ translate Spanish afterAvaText1_9385fd4f:
 translate Spanish afterAvaText1_53d56eb8:
 
     # n "With your head resting on your pillow, you close your eyes and soon fall into slumber."
-    n ""Con la cabeza sobre la almohada, cierras los ojos y pronto caes en un profundo sueño."
+    n "Con la cabeza sobre la almohada, cierras los ojos y pronto caes en un profundo sueño."
 
 # game/story/chapter1.rpy:4334
 translate Spanish thursday1_32a5d723:
